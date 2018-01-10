@@ -2,3 +2,4 @@ bin/*
 obj/*
 obj/Release/Externalio.exe
 obj/Release/Externalio.pdb
+.vscode/*
