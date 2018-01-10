@@ -18,3 +18,10 @@ C:\Users\thebe\Documents\Visual Studio 2017\Projects\Externalio\Externalio\Exter
 C:\Users\thebe\Documents\Visual Studio 2017\Projects\Externalio\Externalio\Externalio\obj\Release\Externalio.csproj.CoreCompileInputs.cache
 C:\Users\thebe\Documents\Visual Studio 2017\Projects\Externalio\Externalio\Externalio\obj\Release\Externalio.exe
 C:\Users\thebe\Documents\Visual Studio 2017\Projects\Externalio\Externalio\Externalio\obj\Release\Externalio.pdb
+C:\Users\thebe\Documents\Visual Studio 2017\Projects\Collab\bin\Release\Externalio.exe.config
+C:\Users\thebe\Documents\Visual Studio 2017\Projects\Collab\bin\Release\Externalio.exe
+C:\Users\thebe\Documents\Visual Studio 2017\Projects\Collab\bin\Release\Externalio.pdb
+C:\Users\thebe\Documents\Visual Studio 2017\Projects\Collab\obj\Release\Externalio.csprojResolveAssemblyReference.cache
+C:\Users\thebe\Documents\Visual Studio 2017\Projects\Collab\obj\Release\Externalio.csproj.CoreCompileInputs.cache
+C:\Users\thebe\Documents\Visual Studio 2017\Projects\Collab\obj\Release\Externalio.exe
+C:\Users\thebe\Documents\Visual Studio 2017\Projects\Collab\obj\Release\Externalio.pdb
