@@ -9,7 +9,6 @@ namespace Externalio
 {
     class Program
     {
-        // test commit
         static void Main(string[] args)
         {
             Console.Title = $"Externalio - Build ({ Extensions.AssemblyCreationDate() })";
